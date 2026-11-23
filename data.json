@@ -1,0 +1,1525 @@
+{
+  "equipment": [
+    {
+      "id": "34075222",
+      "plate": "34075222",
+      "name": "ÇU-80T MOBİL(FAUN)_ALT",
+      "scope": "MOBİL VİNÇ",
+      "description": "M-FAUN ATF80G4-2043167 34075222",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070301000206",
+          "name": "HAVA FILTRESI MANN C271171",
+          "alternative": "",
+          "lot1": "99707309139",
+          "lot2": "",
+          "lot3": "",
+          "notes": "ALT MOTOR"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000276",
+          "name": "HAVA FILTRESI 10293727",
+          "alternative": "",
+          "lot1": "HF5106",
+          "lot2": "CF1640",
+          "lot3": "",
+          "notes": "ALT MOTOR "
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000053",
+          "name": "MAZOT FILTRESI 44012612 44060912 99707307349",
+          "alternative": "MA070303000293",
+          "lot1": "AS3546",
+          "lot2": "PU10461X",
+          "lot3": "FF5380",
+          "notes": "ÜST MOTOR"
+        },
+        {
+          "quantity": "2",
+          "code": "MA070303000042",
+          "name": "MAZOT FILTRESI FIL ZP3035F",
+          "alternative": "",
+          "lot1": "ZP3035F",
+          "lot2": "WK10603X",
+          "lot3": "FS19895",
+          "notes": "ALT-ÜST"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000265",
+          "name": "MAZOT FILTRESI DEMAG 94742079112 TADANO A99707308218 MERCEDES A5410900051",
+          "alternative": "",
+          "lot1": "PU9991X",
+          "lot2": "",
+          "lot3": "",
+          "notes": "ALT MOTOR"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000150",
+          "name": "FILTRE YAG TEREX 94741107212 99707307746",
+          "alternative": "",
+          "lot1": "P7199",
+          "lot2": "HU9315X",
+          "lot3": "",
+          "notes": "ÜST MOTOR"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000029",
+          "name": "YAG FILTRESI 94741718512 42078912 99707017686",
+          "alternative": "",
+          "lot1": "HU12140X",
+          "lot2": "",
+          "lot3": "",
+          "notes": "ALT MOTOR"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000098",
+          "name": "HAVA FILTRESI 99707307614",
+          "alternative": "",
+          "lot1": "AF25504",
+          "lot2": "P777588",
+          "lot3": "",
+          "notes": "ÜST MOTOR"
+        }
+      ],
+      "maintenanceNote": "15.10.2026 TARİHİNDE PERİYODİK BAKIM YAPILMIŞ OLUP 30 LT YAĞ KULLANILMIŞTIR",
+      "maintenanceDate": "15.10.2026",
+      "image": "assets/equipment/34075222.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34075222",
+      "qr": "assets/qr/34075222.png"
+    },
+    {
+      "id": "34002423663",
+      "plate": "34002423663",
+      "name": "34002423663",
+      "scope": "Belirtilmedi",
+      "description": "34002423663",
+      "filters": [],
+      "maintenanceNote": "11.07.2026 TARİHİNDE 2400 H 8 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.",
+      "maintenanceDate": "11.07.2026",
+      "image": "assets/equipment/34002423663.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34002423663",
+      "qr": "assets/qr/34002423663.png"
+    },
+    {
+      "id": "34NBS708",
+      "plate": "34NBS708",
+      "name": "SABİT-100T MOBİL",
+      "scope": "MOBİL VİNÇ",
+      "description": "M-XCMG XCA130_E LXGDPA602RA005222 34NBS708",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070302000187",
+          "name": "YAG FILTRESI XCMG 130 WX800157371",
+          "alternative": "",
+          "lot1": "HU12021Z",
+          "lot2": "",
+          "lot3": "",
+          "notes": "09/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000188",
+          "name": "FILTRE KARTUSU XCMG 130 X860169363",
+          "alternative": "",
+          "lot1": "PL6031X",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000288",
+          "name": "YAKIT FILTRESI XCMG 130 WX841145216",
+          "alternative": "MA070303000264",
+          "lot1": "PU120132Z",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000372",
+          "name": "HAVA FILTRESI DIS XCMG 130 WX800141014-J",
+          "alternative": "",
+          "lot1": "R003668",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000373",
+          "name": "HAVA FILTRESI IC XCMG 130 WX800141015-J",
+          "alternative": "",
+          "lot1": "P641355",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "12.09.2026 TARİHİNDE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR. ",
+      "maintenanceDate": "12.09.2026",
+      "image": "assets/equipment/34NBS708.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34NBS708",
+      "qr": "assets/qr/34NBS708.png"
+    },
+    {
+      "id": "34001616998",
+      "plate": "34001616998",
+      "name": "SABİT-45T BALON TEKER",
+      "scope": "MOBİL VİNÇ",
+      "description": "A-TEREX RT45-TEX409038 34001616998",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070301000252",
+          "name": "FILTRE HAVA TEREX 0906040718",
+          "alternative": "",
+          "lot1": "P608666",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000140",
+          "name": "FILTRE SANZIMAN TEREX 0705100001",
+          "alternative": "MA070305000149",
+          "lot1": "WH960",
+          "lot2": "P9764729",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000139",
+          "name": "HIDROLIK YAG FILTRESI TEREX 0906041039",
+          "alternative": "",
+          "lot1": "HF35303",
+          "lot2": "R164G25B",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000203",
+          "name": "FILTRE MAZOT TANK TEREX 0906040353",
+          "alternative": "",
+          "lot1": "MO7415",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000204",
+          "name": "SU FILTRESI SANY B222100000444 TEREX 0704970240",
+          "alternative": "",
+          "lot1": "P550848",
+          "lot2": "ZP3468FMB",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000205",
+          "name": "YAG FILTRESI",
+          "alternative": "",
+          "lot1": "O7006",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000206",
+          "name": "FILTRE MAZOT TEREX RT100 0704970231",
+          "alternative": "",
+          "lot1": "SP1551M",
+          "lot2": "FF5421",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000349",
+          "name": "HAVA FILTRESI TEREX 0906040719",
+          "alternative": "MA070301000253",
+          "lot1": "CF3240",
+          "lot2": "P601560",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "26.09.2026 TARİHİNDE 7432 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 17 LT YAĞ DEĞİŞİMİ SAĞLANMIŞTIR (MENEMEN GARAJ)",
+      "maintenanceDate": "26.09.2026",
+      "image": "assets/equipment/34001616998.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34001616998",
+      "qr": "assets/qr/34001616998.png"
+    },
+    {
+      "id": "34KLY278-ALT",
+      "plate": "34KLY278",
+      "name": "SABİT-160T MOBİL_ÜST – ALT",
+      "scope": "MOBİL VİNÇ",
+      "description": "M-SANY SAC2500E AC0250CE0059 LFCNRG8PXR2001200 34KLY278",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000285",
+          "name": "YAKIT FILTRE SANY 160102070122B008",
+          "alternative": "",
+          "lot1": "FF63054NN",
+          "lot2": "P553009",
+          "lot3": "",
+          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000185",
+          "name": "YAG SU AYIRICI FILTRE SANY 160603020028A",
+          "alternative": "",
+          "lot1": "FS20121",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000286",
+          "name": "YAG FILTRESI",
+          "alternative": "",
+          "lot1": "LF3970",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000368",
+          "name": "HAVA FILTRESI ANA FILTRE ELEMANI SANY A222100000411",
+          "alternative": "",
+          "lot1": "HF327",
+          "lot2": "P181082",
+          "lot3": "AF25452",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000369",
+          "name": "HAVA FILTRESI GUVENLIK FILTRE ELEMANI SANY A222100000412",
+          "alternative": "",
+          "lot1": "HF328",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000264",
+          "name": "YAKIT FILTRESI MANN PU12004",
+          "alternative": "",
+          "lot1": "PU120132Z",
+          "lot2": "",
+          "lot3": "",
+          "notes": "10/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000188",
+          "name": "FILTRE KARTUSU XCMG 130 X860169363",
+          "alternative": "",
+          "lot1": "PL6031X",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000187",
+          "name": "YAG FILTRESI XCMG 130 WX800157371",
+          "alternative": "",
+          "lot1": "HU12021Z",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000380",
+          "name": "GUVENLIK FILTRESI ALT SANY 160602010106A003",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000381",
+          "name": "ANA FILTRE ALT SANY 160602010106A008",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000379",
+          "name": "FILTRE SHELL SANY ALT 160102130019A414",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "03.10.2026 TARİHİNDE 4306 SAATTE ALT MOTOR BAKIMI YAPILMIŞ 40 LT YAĞ KULLANILMIŞTIR",
+      "maintenanceDate": "03.10.2026",
+      "image": "assets/equipment/34KLY278-ALT.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34KLY278-ALT",
+      "qr": "assets/qr/34KLY278-ALT.png"
+    },
+    {
+      "id": "34KLY278-ÜST",
+      "plate": "34KLY278",
+      "name": "SABİT-160T MOBİL_ÜST – ÜST",
+      "scope": "MOBİL VİNÇ",
+      "description": "M-SANY SAC2500E AC0250CE0059 LFCNRG8PXR2001200 34KLY278",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000285",
+          "name": "YAKIT FILTRE SANY 160102070122B008",
+          "alternative": "",
+          "lot1": "FF63054NN",
+          "lot2": "P553009",
+          "lot3": "",
+          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000185",
+          "name": "YAG SU AYIRICI FILTRE SANY 160603020028A",
+          "alternative": "",
+          "lot1": "FS20121",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000286",
+          "name": "YAG FILTRESI",
+          "alternative": "",
+          "lot1": "LF3970",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000368",
+          "name": "HAVA FILTRESI ANA FILTRE ELEMANI SANY A222100000411",
+          "alternative": "",
+          "lot1": "HF327",
+          "lot2": "P181082",
+          "lot3": "AF25452",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000369",
+          "name": "HAVA FILTRESI GUVENLIK FILTRE ELEMANI SANY A222100000412",
+          "alternative": "",
+          "lot1": "HF328",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000264",
+          "name": "YAKIT FILTRESI MANN PU12004",
+          "alternative": "",
+          "lot1": "PU120132Z",
+          "lot2": "",
+          "lot3": "",
+          "notes": "10/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000188",
+          "name": "FILTRE KARTUSU XCMG 130 X860169363",
+          "alternative": "",
+          "lot1": "PL6031X",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000187",
+          "name": "YAG FILTRESI XCMG 130 WX800157371",
+          "alternative": "",
+          "lot1": "HU12021Z",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000380",
+          "name": "GUVENLIK FILTRESI ALT SANY 160602010106A003",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000381",
+          "name": "ANA FILTRE ALT SANY 160602010106A008",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000379",
+          "name": "FILTRE SHELL SANY ALT 160102130019A414",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "16.07.2026 TARİHİNDE ÜSTÜNE PERİYODİK BAKIM YAPILMIŞ OLUP 18,5 LT YAĞ KULLANILDI",
+      "maintenanceDate": "16.07.2026",
+      "image": "assets/equipment/34KLY278-ÜST.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34KLY278-ÜST",
+      "qr": "assets/qr/34KLY278-ÜST.png"
+    },
+    {
+      "id": "34NKA055",
+      "plate": "34NKA055",
+      "name": "SABİT-30T HI-UP",
+      "scope": "HI-UP",
+      "description": "H-HIDROKON 105TM L6-L5 SERIAL:4598 FORD CARGO 3233S 34NKA055 MODEL:2025",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000231",
+          "name": "MAZOT FILTRE FORD MEGC469176AC",
+          "alternative": "",
+          "lot1": "WK11046",
+          "lot2": "MEGC469176ACN",
+          "lot3": "",
+          "notes": "07/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000077",
+          "name": "YAG FILTRESI MANN W11605 FORD 2C466C769AA",
+          "alternative": "MA070302000180",
+          "lot1": "W11605",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000181",
+          "name": "YAG FILTRESI FORD 2C466744AA MAN W11709",
+          "alternative": "",
+          "lot1": "ZP24C",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000402",
+          "name": "MOTOR HAVALANDIRMA EMISYON FILTRESI GC469D697AA KT7C466A603AB KT7C466A603BB",
+          "alternative": "",
+          "lot1": "MLE1606",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000214",
+          "name": "SOGUTMA SIVISI FILTRESI FORD GC468A469AA",
+          "alternative": "",
+          "lot1": "GC468A469AA",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000024",
+          "name": "SASE FILTRESI A9604770003 504046809 GC469176BA 125005",
+          "alternative": "",
+          "lot1": "SP926M",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000361",
+          "name": "HAVA KURUTUCU FILTRE",
+          "alternative": "",
+          "lot1": "AL12",
+          "lot2": "TB137413X",
+          "lot3": "",
+          "notes": "MA070306000002 STOK SONRASI BU KOD İLE DEVAM EDİLECEK!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000413",
+          "name": "HAVA FILTRESI FORD IC DIS KIT MC469601AA MC469601BA",
+          "alternative": "",
+          "lot1": "HF5743",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070305000101",
+          "name": "HIDROLIK FILTRE FLEETGUARD HF35216",
+          "alternative": "",
+          "lot1": "P173065",
+          "lot2": "",
+          "lot3": "",
+          "notes": "ÜST HİDROLİK FİLTRE 09/2026 TARİHİNDE DEĞİŞİM YAPILDI"
+        }
+      ],
+      "maintenanceNote": "15.07.2026 TARİHİNDE 1553 SAATTE 30 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.",
+      "maintenanceDate": "15.07.2026",
+      "image": "assets/equipment/34NKA055.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34NKA055",
+      "qr": "assets/qr/34NKA055.png"
+    },
+    {
+      "id": "06DV0433",
+      "plate": "06DV0433",
+      "name": "SABİT-75T HI-UP(1)",
+      "scope": "HI-UP",
+      "description": "H-HIDROKON 225TM L7-L5-SCANIA-G400 8X4 SERIAL NUMBER: 4672 ROMORK CEKER 06DV0433",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070302000098",
+          "name": "YAG FILTRESI DONALDSON P761108",
+          "alternative": "",
+          "lot1": "P761108",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070306000023",
+          "name": "KURUTUCU FILTRE MANN TB13943X",
+          "alternative": "",
+          "lot1": "TB13943X",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070304000005",
+          "name": "POLEN FILTRESI MANN CU37001",
+          "alternative": "",
+          "lot1": "CU37001",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000061",
+          "name": "FILTRE MAZOT SASE TADANO A99707309813",
+          "alternative": "MA070303000229",
+          "lot1": "R90T",
+          "lot2": "P551855",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000118",
+          "name": "MAZOT FILTRESI MANN PU9411X",
+          "alternative": "",
+          "lot1": "FF5684",
+          "lot2": "PU9411X",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000069",
+          "name": "YAG FILTRESI MANN HU10772X",
+          "alternative": "",
+          "lot1": "HU10772X",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000387",
+          "name": "HAVA FILTRESI IC HIDROKON 1335680",
+          "alternative": "",
+          "lot1": "AF25969",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000136",
+          "name": "HAVA FILTRESI MANN C301500",
+          "alternative": "",
+          "lot1": "HP2511",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "27.08.2026 TARİHİNDE 276000KM DE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR",
+      "maintenanceDate": "27.08.2026",
+      "image": "assets/equipment/06DV0433.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=06DV0433",
+      "qr": "assets/qr/06DV0433.png"
+    },
+    {
+      "id": "27ALC352",
+      "plate": "27ALC352",
+      "name": "SABİT-35T HI-UP",
+      "scope": "HI-UP",
+      "description": "H-HIDROKON 105TM L6-L5-FORD TRUCKS NM0MKXTP6MME94460 27ALC352",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000231",
+          "name": "MAZOT FILTRE FORD MEGC469176AC",
+          "alternative": "",
+          "lot1": "WK11046",
+          "lot2": "MEGC469176ACN",
+          "lot3": "",
+          "notes": "07/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000024",
+          "name": "SASE FILTRESI A9604770003 504046809 GC469176BA 125005",
+          "alternative": "",
+          "lot1": "SP926M",
+          "lot2": "PL 4207X",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000181",
+          "name": "YAG FILTRESI FORD 2C466744AA MAN W11709",
+          "alternative": "",
+          "lot1": "ZP24C",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000077",
+          "name": "YAG FILTRESI MANN W11605 FORD 2C466C769AA",
+          "alternative": "MA070302000180",
+          "lot1": "W11605",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000144",
+          "name": "HAVA FILTRESI IC DIS SET MEGC469601A1A",
+          "alternative": "",
+          "lot1": "HP2726 - HP2725",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000214",
+          "name": "SOGUTMA SIVISI FILTRESI FORD GC468A469AA",
+          "alternative": "",
+          "lot1": "GC468A469AA",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000402",
+          "name": "MOTOR HAVALANDIRMA EMISYON FILTRESI GC469D697AA KT7C466A603AB KT7C466A603BB",
+          "alternative": "",
+          "lot1": "MLE1606",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000361",
+          "name": "HAVA KURUTUCU FILTRE",
+          "alternative": "",
+          "lot1": "AL12",
+          "lot2": "TB137413X",
+          "lot3": "",
+          "notes": "MA070306000002 STOK SONRASI BU KOD İLE DEVAM EDİLECEK!!!"
+        }
+      ],
+      "maintenanceNote": "13.07.2026 TARİHİNDE 5552 SAATTE 30 LT YAĞ KULLANILARAK PERİYORİK BAKIM YAPILMIŞTIR",
+      "maintenanceDate": "13.07.2026",
+      "image": "assets/equipment/27ALC352.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=27ALC352",
+      "qr": "assets/qr/27ALC352.png"
+    },
+    {
+      "id": "06GC7865",
+      "plate": "06GC7865",
+      "name": "SABİT-75T HI-UP(2)",
+      "scope": "HI-UP",
+      "description": "H-HIDROKON 225TM L7-L5 MERCEDES 8X4 SERIAL:4142 06GC7865",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000127",
+          "name": "MAZOT FILTRE MERCEDES A4710902455",
+          "alternative": "",
+          "lot1": "MAHLE KX400KİT",
+          "lot2": "",
+          "lot3": "",
+          "notes": "08/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000024",
+          "name": "SASE FILTRESI A9604770003",
+          "alternative": "",
+          "lot1": "SP926M",
+          "lot2": "PL 4207X",
+          "lot3": "",
+          "notes": "KONTROL"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000013",
+          "name": "YAG FILTRESI MERCEDES A4731800309 A4731800009",
+          "alternative": "",
+          "lot1": "LF17511",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070306000045",
+          "name": "KURUTUCU FILTRESI MERCEDES A0004292797 A0004292097",
+          "alternative": "",
+          "lot1": "TB13948X",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000224",
+          "name": "HAVA FILTRESI MERCEDES A0040949204",
+          "alternative": "",
+          "lot1": "C500041",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "04.08.2026 TARİHİNDE 1200 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR.",
+      "maintenanceDate": "04.08.2026",
+      "image": "assets/equipment/06GC7865.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=06GC7865",
+      "qr": "assets/qr/06GC7865.png"
+    },
+    {
+      "id": "34FSR271",
+      "plate": "34FSR271",
+      "name": "ÇEKİCİ",
+      "scope": "ÇEKİCİ",
+      "description": "VOLVO FM 42 TB 440HP 4X2 M 34FSR271",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070302000045",
+          "name": "BYPASS FILTRE VOLVO 21707132",
+          "alternative": "",
+          "lot1": "WP111023",
+          "lot2": "",
+          "lot3": "",
+          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070305000143",
+          "name": "DIREKSIYON FILTRESI IVECO 1902137 MAN 20580233 MERCEDES A0004662804 FORD GC463C602AAN",
+          "alternative": "",
+          "lot1": "H6014",
+          "lot2": "AS132",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000295",
+          "name": "HAVA FILTRESI DIS VOLVO 8149064",
+          "alternative": "",
+          "lot1": "C3113451",
+          "lot2": "HF5877",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000298",
+          "name": "HAVA FILTRESI IC VOLVO 3979928",
+          "alternative": "",
+          "lot1": "HP4611",
+          "lot2": "HF678",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000361",
+          "name": "HAVA KURUTUCU FILTRE",
+          "alternative": "",
+          "lot1": "AL12",
+          "lot2": "TB137413X",
+          "lot3": "",
+          "notes": "MA070306000002 STOK SONRASI BU KOD İLE DEVAM EDİLECEK!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000271",
+          "name": "MAZOT FILTRE VOLVO 20405160",
+          "alternative": "",
+          "lot1": "WDK1110228",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000162",
+          "name": "KABIN TEMIZ HAVA FILTRESI VOLVO 21758906",
+          "alternative": "",
+          "lot1": "HP2268",
+          "lot2": "P782811",
+          "lot3": "HF6804",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000046",
+          "name": "SANZIMAN YAG FILTRESI VOLVO 85105048 VOLVO 85108176 VOLVO 20779040 VOLVO 21479106",
+          "alternative": "",
+          "lot1": "HU721XKIT",
+          "lot2": "HF35488",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000084",
+          "name": "SASE FILTRE VOLVO 20782330 21380490 21764964 R60RDRCR02 BF13860",
+          "alternative": "",
+          "lot1": "SP1698M",
+          "lot2": "ZP3133F",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "2",
+          "code": "MA070302000114",
+          "name": "YAG FILTRESI VOLVO 21707133 23658092",
+          "alternative": "",
+          "lot1": "SP1028",
+          "lot2": "W11025",
+          "lot3": "LF17503",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "15.07.2026 TARİHİNDE PERİYODİK BAKIM YAPILDI.35 LT YAĞ KULLANILDI ",
+      "maintenanceDate": "15.07.2026",
+      "image": "assets/equipment/34FSR271.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34FSR271",
+      "qr": "assets/qr/34FSR271.png"
+    },
+    {
+      "id": "34KBN815",
+      "plate": "34KBN815",
+      "name": "ÇU-NAKLİYE&KAZI",
+      "scope": "ÇEKİCİ",
+      "description": "IVECO AT 440 S 43 T/P 430HP 4X2 K 34KBN815",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070305000143",
+          "name": "DIREKSIYON FILTRESI IVECO 1902137 MAN 20580233 MERCEDES A0004662804 FORD GC463C602AAN",
+          "alternative": "",
+          "lot1": "H6014",
+          "lot2": "",
+          "lot3": "",
+          "notes": "11/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000054",
+          "name": "HAVA FILTRESI IVECO 2996126 41270082",
+          "alternative": "",
+          "lot1": "HF5243",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000071",
+          "name": "HAVA FILTRESI IVECO 2996238 500339085S",
+          "alternative": "",
+          "lot1": "2996238",
+          "lot2": "ZP3083",
+          "lot3": "FSA75",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000299",
+          "name": "KABIN FILTRESI IVECO 2995964 504024890",
+          "alternative": "",
+          "lot1": "HC7092",
+          "lot2": "HF6084",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000361",
+          "name": "KURUTUCU FILTRESI",
+          "alternative": "",
+          "lot1": "AL12",
+          "lot2": "TB137413X",
+          "lot3": "",
+          "notes": "MA070306000002 STOK SONRASI BU KOD İLE DEVAM EDİLECEK!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000001",
+          "name": "MAZOT FILTRE IVECO 2995711",
+          "alternative": "",
+          "lot1": "WDK9407",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000232",
+          "name": "MAZOT FILTRE IVECO 5801586769",
+          "alternative": "",
+          "lot1": "SP932M",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000236",
+          "name": "SASE FILTRE IVECO 504046809",
+          "alternative": "",
+          "lot1": "WK95019",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000088",
+          "name": "YAG FILTRESI 2996416 5801592277 500086331",
+          "alternative": "",
+          "lot1": "AS2530KİT",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "03.11.2026 TARİHİNDE 325000KM DE PERİYODİK BAKIM YAPILMIŞTIR. 30 LT 15/40 YAĞ KULLANILMIŞTIR ",
+      "maintenanceDate": "03.11.2026",
+      "image": "assets/equipment/34KBN815.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34KBN815",
+      "qr": "assets/qr/34KBN815.png"
+    },
+    {
+      "id": "34DJU847",
+      "plate": "34DJU847",
+      "name": "SABİT-SALKASA ÇEKİCİ(DJU)",
+      "scope": "ÇEKİCİ",
+      "description": "FORD 3548T 480HP 6X4 34DJU847",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000222",
+          "name": "ADBLUE FILTRESI FORD GC465L264AA",
+          "alternative": "",
+          "lot1": "ASUR3921KİT",
+          "lot2": "UF101",
+          "lot3": "",
+          "notes": "10/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070305000225",
+          "name": "DIREKSIYON FILTRESI FORD GC46C602AA",
+          "alternative": "",
+          "lot1": "242700311001",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000144",
+          "name": "HAVA FILTRESI IC DIS SET MEGC469601A1A",
+          "alternative": "",
+          "lot1": "HP2726 - HP2725",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070304000002",
+          "name": "KABIN HAVA FILTRESI FORD DC4619N619BA",
+          "alternative": "",
+          "lot1": "DC4619N619BA",
+          "lot2": "CK0236",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070306000002",
+          "name": "HAVA KURUTUCU FILTRE MECC462A346AAN",
+          "alternative": "",
+          "lot1": "TB139416X",
+          "lot2": "II40100F KNORR BREMS",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "2",
+          "code": "MA070303000231",
+          "name": "MAZOT FILTRE FORD MEGC469176AC",
+          "alternative": "",
+          "lot1": "WK11046",
+          "lot2": "MEGC469176ACN",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000235",
+          "name": "SASE FILTRE FORD MEGC469176BA",
+          "alternative": "",
+          "lot1": "CS1672",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "2",
+          "code": "MA070302000092",
+          "name": "YAG FILTRESI FORD GC466744AD",
+          "alternative": "",
+          "lot1": "ZP3387 MG",
+          "lot2": "SP1686HT",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000214",
+          "name": "SOGUTMA SIVISI FILTRESI FORD GC468A469AA",
+          "alternative": "",
+          "lot1": "GC468A469AA",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "23.10.2026 TARİHİNDE 4482 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 38 LT YAĞ DEĞİŞTİRİLMİŞTİR.",
+      "maintenanceDate": "23.10.2026",
+      "image": "assets/equipment/34DJU847.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34DJU847",
+      "qr": "assets/qr/34DJU847.png"
+    },
+    {
+      "id": "07APT709",
+      "plate": "07APT709",
+      "name": "SABİT-TRAKTÖR",
+      "scope": "TRAKTÖR",
+      "description": "TRAKTOR DEUZT-FAHR 4100E 07APT709",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000005",
+          "name": "MAZOT FILTRESI FIL MF296",
+          "alternative": "",
+          "lot1": "MTS7097",
+          "lot2": "P9172X",
+          "lot3": "",
+          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000311",
+          "name": "MAZOT FILTRESI 900.1359.3",
+          "alternative": "",
+          "lot1": "900.1359.3- ELS-0585",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000194",
+          "name": "YAG FILTRESI MANN W11008",
+          "alternative": "",
+          "lot1": "ZP3018",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "2",
+          "code": "MA070302000201",
+          "name": "HIDROLIK YAG FILTRESI Y2.4419.760.0/10",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000411 ",
+          "name": "FILTRE HAVA FILTORQ A2647-A2648 KIT",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "09.07.2026-2253 SAATTE 8 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.3000 SAAT DOLDUĞUNDA BAKIM YAPILACAKTIR.",
+      "maintenanceDate": "09.07.2026",
+      "image": "assets/equipment/07APT709.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=07APT709",
+      "qr": "assets/qr/07APT709.png"
+    },
+    {
+      "id": "34ST6138",
+      "plate": "34ST6138",
+      "name": "SABİT-DAMPERLİ KAMYON",
+      "scope": "KAMYON",
+      "description": "FORD CARGO DAMPERLI KAMYON 34ST6138",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070301000144",
+          "name": "HAVA FILTRESI IC DIS SET MEGC469601A1A",
+          "alternative": "",
+          "lot1": "HP2726 - HP2725",
+          "lot2": "",
+          "lot3": "",
+          "notes": "08/2026 TARİHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "2",
+          "code": "MA070303000231",
+          "name": "MAZOT FILTRE FORD MEGC469176AC",
+          "alternative": "",
+          "lot1": "WK11046",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "2",
+          "code": "MA070302000092",
+          "name": "YAG FILTRESI FORD GC466744AD",
+          "alternative": "",
+          "lot1": "ZP3387 MG",
+          "lot2": "SP1686HT",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000214",
+          "name": "SOGUTMA SIVISI FILTRESI FORD GC468A469AA",
+          "alternative": "",
+          "lot1": "GC468A469AA",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000024",
+          "name": "SASE FILTRESI A9604770003 504046809 GC469176BA 125005",
+          "alternative": "",
+          "lot1": "SP926M",
+          "lot2": "PL 4207X",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000361",
+          "name": "HAVA KURUTUCU FILTRE",
+          "alternative": "",
+          "lot1": "AL12",
+          "lot2": "TB137413X",
+          "lot3": "",
+          "notes": "MA070306000002 STOK SONRASI BU KOD İLE DEVAM EDİLECEK!!!"
+        }
+      ],
+      "maintenanceNote": "14.08.2026 TARİHİNDE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR. 288458 KMDE BAKIM YAPILDI",
+      "maintenanceDate": "14.08.2026",
+      "image": "assets/equipment/34ST6138.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34ST6138",
+      "qr": "assets/qr/34ST6138.png"
+    },
+    {
+      "id": "3400219279",
+      "plate": "3400219279",
+      "name": "ÇU-BEKO LODER",
+      "scope": "İŞ MAKİNASI",
+      "description": "BEKO LOADER LUIGONG CLG777A 3400219279",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000164",
+          "name": "SASE FILTRE IVECO 504192159",
+          "alternative": "",
+          "lot1": "WK1070X",
+          "lot2": "",
+          "lot3": "",
+          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000310",
+          "name": "MAZOT FILTRESI HAULOTTE 2427003070",
+          "alternative": "",
+          "lot1": "4816636",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000184",
+          "name": "HAVA FILTRESI DONALDSON P608533 DIŞ",
+          "alternative": "",
+          "lot1": "P608533",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000396",
+          "name": "HAVA FILTRESI DONALDSON P600975 İÇ",
+          "alternative": "",
+          "lot1": "P600975",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000063",
+          "name": "YAG FILTRESI MANITOU 476954 HAULOTTE 2427003080",
+          "alternative": "",
+          "lot1": "W9507",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "21.07.2026 TARİHİNDE 2942 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 8 LT YAĞ KULLANILMIŞTIR.",
+      "maintenanceDate": "21.07.2026",
+      "image": "assets/equipment/3400219279.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=3400219279",
+      "qr": "assets/qr/3400219279.png"
+    },
+    {
+      "id": "3400214573",
+      "plate": "3400214573",
+      "name": "SABİT-LODER",
+      "scope": "İŞ MAKİNASI",
+      "description": "LOADER LUIGONG CLG856H 3400214573",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070306000022",
+          "name": "KURUTUCU FILTRE FLEETGUARD FS36247",
+          "alternative": "",
+          "lot1": "FS36247",
+          "lot2": "",
+          "lot3": "",
+          "notes": "04/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000050",
+          "name": "YAG FILTRESI MANN WP12121",
+          "alternative": "",
+          "lot1": "LF9009",
+          "lot2": "P553000",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000120",
+          "name": "MAZOT FILTRESI DONALDSON P550774",
+          "alternative": "",
+          "lot1": "P550774",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070303000309",
+          "name": "MAZOT FILTRESI FLEETGUARD 53C0574",
+          "alternative": "",
+          "lot1": "FS36216",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000395",
+          "name": "HAVA FILTRESI LIUGONG IC DIS 40C5855 40C5854",
+          "alternative": "",
+          "lot1": "X6212",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "20.04.2026 TARİHİNDE 4936 SAATTE 24 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.5436  SAAT DOLDUĞUNDA BAKIM YAPILACAKTIR.",
+      "maintenanceDate": "20.04.2026",
+      "image": "assets/equipment/3400214573.jpg",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=3400214573",
+      "qr": "assets/qr/3400214573.png"
+    },
+    {
+      "id": "72757280",
+      "plate": "72757280",
+      "name": "SABİT-9T MOBİL",
+      "scope": "MOBİL VİNÇ",
+      "description": "BRODERSON IC-80-3J 72757280",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000287",
+          "name": "MAZOT FILTRESI GOLD SF8218",
+          "alternative": "",
+          "lot1": "PP950",
+          "lot2": "",
+          "lot3": "",
+          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000371",
+          "name": "HAVA FILTRESI GOLD 549280",
+          "alternative": "",
+          "lot1": "P601280",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000186",
+          "name": "YAG FILTRESI GOLD 1348",
+          "alternative": "",
+          "lot1": "P550335",
+          "lot2": "ZP3184",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070305000106",
+          "name": "HIDROLIK FILTRE JLG 1250AJP 2120168",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000051",
+          "name": "YAG FILTRESI MANN WD9203",
+          "alternative": "",
+          "lot1": "BT9561",
+          "lot2": "WD9203",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
+      "maintenanceNote": "Bakım sekmesi bulunamadı.",
+      "maintenanceDate": "",
+      "image": "",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=72757280",
+      "qr": "assets/qr/72757280.png"
+    }
+  ]
+}
