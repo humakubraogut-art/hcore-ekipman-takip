@@ -91,21 +91,73 @@
       "maintenanceNote": "15.10.2026 TARİHİNDE PERİYODİK BAKIM YAPILMIŞ OLUP 30 LT YAĞ KULLANILMIŞTIR",
       "maintenanceDate": "15.10.2026",
       "image": "assets/equipment/34075222.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34075222",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34075222",
       "qr": "assets/qr/34075222.png"
     },
     {
       "id": "34002423663",
       "plate": "34002423663",
-      "name": "34002423663",
-      "scope": "Belirtilmedi",
-      "description": "34002423663",
-      "filters": [],
+      "name": "SABİT-9T MOBİL",
+      "scope": "MOBİL VİNÇ",
+      "description": "BRODERSON IC-80-3J 72757280",
+      "filters": [
+        {
+          "quantity": "1",
+          "code": "MA070303000287",
+          "name": "MAZOT FILTRESI GOLD SF8218",
+          "alternative": "",
+          "lot1": "PP950",
+          "lot2": "",
+          "lot3": "",
+          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
+        },
+        {
+          "quantity": "1",
+          "code": "MA070301000371",
+          "name": "HAVA FILTRESI GOLD 549280",
+          "alternative": "",
+          "lot1": "P601280",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000186",
+          "name": "YAG FILTRESI GOLD 1348",
+          "alternative": "",
+          "lot1": "P550335",
+          "lot2": "ZP3184",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070305000106",
+          "name": "HIDROLIK FILTRE JLG 1250AJP 2120168",
+          "alternative": "",
+          "lot1": "",
+          "lot2": "",
+          "lot3": "",
+          "notes": ""
+        },
+        {
+          "quantity": "1",
+          "code": "MA070302000051",
+          "name": "YAG FILTRESI MANN WD9203",
+          "alternative": "",
+          "lot1": "BT9561",
+          "lot2": "WD9203",
+          "lot3": "",
+          "notes": ""
+        }
+      ],
       "maintenanceNote": "11.07.2026 TARİHİNDE 2400 H 8 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.",
       "maintenanceDate": "11.07.2026",
       "image": "assets/equipment/34002423663.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34002423663",
-      "qr": "assets/qr/34002423663.png"
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34002423663",
+      "qr": "assets/qr/34002423663.png",
+      "alternativeEquipmentNo": "72757280"
     },
     {
       "id": "34NBS708",
@@ -168,7 +220,7 @@
       "maintenanceNote": "12.09.2026 TARİHİNDE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR. ",
       "maintenanceDate": "12.09.2026",
       "image": "assets/equipment/34NBS708.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34NBS708",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34NBS708",
       "qr": "assets/qr/34NBS708.png"
     },
     {
@@ -262,7 +314,7 @@
       "maintenanceNote": "26.09.2026 TARİHİNDE 7432 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 17 LT YAĞ DEĞİŞİMİ SAĞLANMIŞTIR (MENEMEN GARAJ)",
       "maintenanceDate": "26.09.2026",
       "image": "assets/equipment/34001616998.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34001616998",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34001616998",
       "qr": "assets/qr/34001616998.png"
     },
     {
@@ -386,7 +438,7 @@
       "maintenanceNote": "03.10.2026 TARİHİNDE 4306 SAATTE ALT MOTOR BAKIMI YAPILMIŞ 40 LT YAĞ KULLANILMIŞTIR",
       "maintenanceDate": "03.10.2026",
       "image": "assets/equipment/34KLY278-ALT.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34KLY278-ALT",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34KLY278-ALT",
       "qr": "assets/qr/34KLY278-ALT.png"
     },
     {
@@ -510,7 +562,7 @@
       "maintenanceNote": "16.07.2026 TARİHİNDE ÜSTÜNE PERİYODİK BAKIM YAPILMIŞ OLUP 18,5 LT YAĞ KULLANILDI",
       "maintenanceDate": "16.07.2026",
       "image": "assets/equipment/34KLY278-ÜST.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34KLY278-ÜST",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34KLY278-ÜST",
       "qr": "assets/qr/34KLY278-ÜST.png"
     },
     {
@@ -614,7 +666,7 @@
       "maintenanceNote": "15.07.2026 TARİHİNDE 1553 SAATTE 30 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.",
       "maintenanceDate": "15.07.2026",
       "image": "assets/equipment/34NKA055.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34NKA055",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34NKA055",
       "qr": "assets/qr/34NKA055.png"
     },
     {
@@ -708,7 +760,7 @@
       "maintenanceNote": "27.08.2026 TARİHİNDE 276000KM DE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR",
       "maintenanceDate": "27.08.2026",
       "image": "assets/equipment/06DV0433.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=06DV0433",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=06DV0433",
       "qr": "assets/qr/06DV0433.png"
     },
     {
@@ -802,7 +854,7 @@
       "maintenanceNote": "13.07.2026 TARİHİNDE 5552 SAATTE 30 LT YAĞ KULLANILARAK PERİYORİK BAKIM YAPILMIŞTIR",
       "maintenanceDate": "13.07.2026",
       "image": "assets/equipment/27ALC352.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=27ALC352",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=27ALC352",
       "qr": "assets/qr/27ALC352.png"
     },
     {
@@ -866,7 +918,7 @@
       "maintenanceNote": "04.08.2026 TARİHİNDE 1200 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR.",
       "maintenanceDate": "04.08.2026",
       "image": "assets/equipment/06GC7865.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=06GC7865",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=06GC7865",
       "qr": "assets/qr/06GC7865.png"
     },
     {
@@ -980,7 +1032,7 @@
       "maintenanceNote": "15.07.2026 TARİHİNDE PERİYODİK BAKIM YAPILDI.35 LT YAĞ KULLANILDI ",
       "maintenanceDate": "15.07.2026",
       "image": "assets/equipment/34FSR271.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34FSR271",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34FSR271",
       "qr": "assets/qr/34FSR271.png"
     },
     {
@@ -1084,7 +1136,7 @@
       "maintenanceNote": "03.11.2026 TARİHİNDE 325000KM DE PERİYODİK BAKIM YAPILMIŞTIR. 30 LT 15/40 YAĞ KULLANILMIŞTIR ",
       "maintenanceDate": "03.11.2026",
       "image": "assets/equipment/34KBN815.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34KBN815",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34KBN815",
       "qr": "assets/qr/34KBN815.png"
     },
     {
@@ -1188,7 +1240,7 @@
       "maintenanceNote": "23.10.2026 TARİHİNDE 4482 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 38 LT YAĞ DEĞİŞTİRİLMİŞTİR.",
       "maintenanceDate": "23.10.2026",
       "image": "assets/equipment/34DJU847.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34DJU847",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34DJU847",
       "qr": "assets/qr/34DJU847.png"
     },
     {
@@ -1252,7 +1304,7 @@
       "maintenanceNote": "09.07.2026-2253 SAATTE 8 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.3000 SAAT DOLDUĞUNDA BAKIM YAPILACAKTIR.",
       "maintenanceDate": "09.07.2026",
       "image": "assets/equipment/07APT709.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=07APT709",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=07APT709",
       "qr": "assets/qr/07APT709.png"
     },
     {
@@ -1326,7 +1378,7 @@
       "maintenanceNote": "14.08.2026 TARİHİNDE PERİYODİK BAKIM YAPILMIŞ OLUP 40 LT YAĞ KULLANILMIŞTIR. 288458 KMDE BAKIM YAPILDI",
       "maintenanceDate": "14.08.2026",
       "image": "assets/equipment/34ST6138.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=34ST6138",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=34ST6138",
       "qr": "assets/qr/34ST6138.png"
     },
     {
@@ -1390,7 +1442,7 @@
       "maintenanceNote": "21.07.2026 TARİHİNDE 2942 SAATTE PERİYODİK BAKIM YAPILMIŞ OLUP 8 LT YAĞ KULLANILMIŞTIR.",
       "maintenanceDate": "21.07.2026",
       "image": "assets/equipment/3400219279.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=3400219279",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=3400219279",
       "qr": "assets/qr/3400219279.png"
     },
     {
@@ -1454,72 +1506,8 @@
       "maintenanceNote": "20.04.2026 TARİHİNDE 4936 SAATTE 24 LT YAĞ KULLANILARAK PERİYODİK BAKIM YAPILMIŞTIR.5436  SAAT DOLDUĞUNDA BAKIM YAPILACAKTIR.",
       "maintenanceDate": "20.04.2026",
       "image": "assets/equipment/3400214573.jpg",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=3400214573",
+      "url": "https://humakubraogut-art.github.io/hcore-ekipman-takip/?ekipman=3400214573",
       "qr": "assets/qr/3400214573.png"
-    },
-    {
-      "id": "72757280",
-      "plate": "72757280",
-      "name": "SABİT-9T MOBİL",
-      "scope": "MOBİL VİNÇ",
-      "description": "BRODERSON IC-80-3J 72757280",
-      "filters": [
-        {
-          "quantity": "1",
-          "code": "MA070303000287",
-          "name": "MAZOT FILTRESI GOLD SF8218",
-          "alternative": "",
-          "lot1": "PP950",
-          "lot2": "",
-          "lot3": "",
-          "notes": "07/2026 TARiHİNDE BAKIM YAPILMIŞ VE FİLTRE LİSTESİ GÜNCELDİR!!!"
-        },
-        {
-          "quantity": "1",
-          "code": "MA070301000371",
-          "name": "HAVA FILTRESI GOLD 549280",
-          "alternative": "",
-          "lot1": "P601280",
-          "lot2": "",
-          "lot3": "",
-          "notes": ""
-        },
-        {
-          "quantity": "1",
-          "code": "MA070302000186",
-          "name": "YAG FILTRESI GOLD 1348",
-          "alternative": "",
-          "lot1": "P550335",
-          "lot2": "ZP3184",
-          "lot3": "",
-          "notes": ""
-        },
-        {
-          "quantity": "1",
-          "code": "MA070305000106",
-          "name": "HIDROLIK FILTRE JLG 1250AJP 2120168",
-          "alternative": "",
-          "lot1": "",
-          "lot2": "",
-          "lot3": "",
-          "notes": ""
-        },
-        {
-          "quantity": "1",
-          "code": "MA070302000051",
-          "name": "YAG FILTRESI MANN WD9203",
-          "alternative": "",
-          "lot1": "BT9561",
-          "lot2": "WD9203",
-          "lot3": "",
-          "notes": ""
-        }
-      ],
-      "maintenanceNote": "Bakım sekmesi bulunamadı.",
-      "maintenanceDate": "",
-      "image": "",
-      "url": "https://humakubraogut-art.github.io/hcore-ekipman-merkezi/?ekipman=72757280",
-      "qr": "assets/qr/72757280.png"
     }
   ]
 }
